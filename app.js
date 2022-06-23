@@ -5,4 +5,5 @@ App({
   onShow: function () {
     updateManager();
   },
+  
 });
